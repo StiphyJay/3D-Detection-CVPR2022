@@ -1,5 +1,5 @@
 # 3D-Detection-CVPR2022
-CVPR2022 paper list on 3D Object Detection
+CVPR2022 paper list on 3D Object Detection, include: method name, paper link, code link and dataset name.
 
 ## Point Cloud-only
 
