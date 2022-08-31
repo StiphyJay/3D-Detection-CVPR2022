@@ -46,3 +46,23 @@ CVPR2022 paper list on 3D Object Detection, include: method name, paper link, co
 |  VFF | https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Voxel_Field_Fusion_for_3D_Object_Detection_CVPR_2022_paper.pdf | https://github.com/dvlab-research/VFF|  KITTI/nuScenes  |
 | ST-MVDNet | https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Modality-Agnostic_Learning_for_Radar-Lidar_Fusion_in_Vehicle_Detection_CVPR_2022_paper.pdf| | Oxford Radar Robotcar|
 | S2M2-SSD | https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.pdf | | nuScenes |
+
+4. Multi-View/Pseudo Iamge
+
+
+|   name   | paper link | code link | dataset |
+|:------------:|:-------------------:|:-------------------:|:----------:|
+|  VMVF | https://openaccess.thecvf.com/content/CVPR2022/papers/Fazlali_A_Versatile_Multi-View_Framework_for_LiDAR-Based_3D_Object_Detection_With_CVPR_2022_paper.pdf| |nuScenes|
+|  SFD | 	https://arxiv.org/pdf/2203.09780.pdf| |KITTI|
+
+5. Transformer-based Method
+
+
+|   name   | paper link | code link | dataset |
+|:------------:|:-------------------:|:-------------------:|:----------:|
+|  CAT-Det| https://arxiv.org/pdf/2204.00325.pdf| |KITTI|
+|  MonoDTR |https://arxiv.org/pdf/2203.10981.pdf| https://github.com/kuanchihhuang/MonoDTR |KITTI|
+|  VoxSeT | https://arxiv.org/pdf/2203.10314.pdf | https://github.com/skyhehe123/VoxSeT |KITTI/Waymo |
+|  TransFusion | https://arxiv.org/pdf/2203.11496.pdf | https://github.com/XuyangBai/TransFusion/ | NuScenes/Waymo |
+|  LIFT | https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_LIFT_Learning_4D_LiDAR_Image_Fusion_Transformer_for_3D_Object_CVPR_2022_paper.pdf |   | NuScenes |
+| BrT | https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.pdf |  | ScanNetV2/ SUNRGBD |
