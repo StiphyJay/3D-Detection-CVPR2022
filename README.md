@@ -1,7 +1,7 @@
 # 3D-Detection-CVPR2022
 CVPR2022 paper list on 3D Object Detection, include: method name, paper link, code link and dataset name.
 
-## 1. Point Cloud-only
+## 1. Point Cloud
 
 
 |   name   | paper link | code link | dataset |
@@ -23,7 +23,7 @@ CVPR2022 paper list on 3D Object Detection, include: method name, paper link, co
 |  RBGNet  |  https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RBGNet_Ray-Based_Grouping_for_3D_Object_Detection_CVPR_2022_paper.pdf |  https://github.com/Haiyang-W/RBGNet  |  ScanNetV2/ SUNRGBD   |
 
 
-## 2. Camera-only
+## 2. Camera
 
 
 |   name   | paper link | code link | dataset |
@@ -47,7 +47,7 @@ CVPR2022 paper list on 3D Object Detection, include: method name, paper link, co
 | ST-MVDNet | https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Modality-Agnostic_Learning_for_Radar-Lidar_Fusion_in_Vehicle_Detection_CVPR_2022_paper.pdf| | Oxford Radar Robotcar|
 | S2M2-SSD | https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.pdf | | nuScenes |
 
-4. Multi-View/Pseudo Iamge
+## 4. Multi-View/Pseudo Iamge
 
 
 |   name   | paper link | code link | dataset |
@@ -55,7 +55,7 @@ CVPR2022 paper list on 3D Object Detection, include: method name, paper link, co
 |  VMVF | https://openaccess.thecvf.com/content/CVPR2022/papers/Fazlali_A_Versatile_Multi-View_Framework_for_LiDAR-Based_3D_Object_Detection_With_CVPR_2022_paper.pdf| |nuScenes|
 |  SFD | 	https://arxiv.org/pdf/2203.09780.pdf| |KITTI|
 
-5. Transformer-based Method
+## 5. Transformer-based Method
 
 
 |   name   | paper link | code link | dataset |
